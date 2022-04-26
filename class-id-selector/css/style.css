@@ -1,0 +1,19 @@
+.Element:nth-child(odd) {
+    font-family: "Verdana", DejaVu Sans, sans-serif;
+    background-color: pink;
+}
+
+#blue {
+    font-size: 36px;
+    color: blue;
+}
+
+.Element.special {
+    font-size: 24px;
+}
+
+#green {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;;
+}
